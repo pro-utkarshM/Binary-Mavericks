@@ -43,7 +43,7 @@ This series is designed for developers, students, and enthusiasts interested in 
 
 ### **KolibriOS**
 - **Documentation:**
-  - [KolibriOS Developer Resources](https://wiki.kolibrios.org/Development)
+  - [KolibriOS Developer Resources](https://wiki.kolibrios.org/wiki/Main_Page)
   - [KolibriOS Source Code](https://github.com/kolibrios)
 
 ## **Contributions**
